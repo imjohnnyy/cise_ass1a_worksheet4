@@ -1,7 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route, NavLink, Navigate } from "react-router-dom";
 import "./index.css"
-
 import Home from "./pages/Home";
 import SEPractice from "./pages/SE-Practice";
 import SubmitArticle from "./pages/Submit-Article";
